@@ -14,7 +14,7 @@
 <img  alt="@qaixer514 | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://stackoverflow.com/users/7279180/laeeq-khan-niazi">
-<img alt="@Stackoverflow | Stackoverflow"  src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+<img alt="@Stackoverflow | Stackoverflow"  src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>
 </div>
 

@@ -20,7 +20,7 @@
 
 <div align="left" style="margin-top:20px;"
 
-- 🔭 I’m currently working on UET ECAT Testing System | Moodle | AI based POS
+- 🔭 I’m currently working on UET ECAT Testing System | Moodle LMS | AI based POS
 - 🌱 I’m currently learning Best Coding Practices and Solving Complex Programming Problems
 - 👯 I’m looking to collaborate on developing state of art software projects
 - 💬 Ask me about Problem Solving, Project Designs, Software Development.

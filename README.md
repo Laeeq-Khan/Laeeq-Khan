@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on Software Lead ECAT Testing System | Node Backend Developer (USA Remote Job) | AI based POS
 - 🌱 I’m currently learning Best Coding Practices and Solving Complex Programming Problems
 - 👯 I’m looking to collaborate on developing state of art software projects
-- 💬 Ask me about Problem Solving, Project Designs, Software Development.
+- 💬 Ask me about Problem Solving, System Designs, Software Development, Programming Languages and Frameworks.
 - 📫 How to reach me: email :m.laeeq.niazi@gmail.com:
 - 😄 Pronouns: He/His/Him
 

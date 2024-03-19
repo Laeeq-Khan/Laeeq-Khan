@@ -20,7 +20,7 @@
 
 <div align="left" style="margin-top:20px;"
 
-- 🔭 I’m currently working on Software Lead ECAT Testing System | Node Backend Developer (USA Remote Job) | AI based POS
+- 🔭 I’m currently working on Node Backend Developer (USA Remote Job) | Consulting Software ECAT Testing System (Part Time)
 - 🌱 I’m currently learning Best Coding Practices and Solving Complex Programming Problems
 - 👯 I’m looking to collaborate on developing state of art software projects
 - 💬 Ask me about Problem Solving, System Designs, Software Development, Programming Languages and Frameworks.

@@ -20,8 +20,8 @@
 
 <div align="left" style="margin-top:20px;"
 
-- 🔭 I’m currently working on Node Backend Developer (USA Remote Job) | Consulting Software ECAT Testing System (Part Time)
-- 🌱 I’m currently learning Best Coding Practices and Solving Complex Programming Problems
+- 🔭 Senior Software Engineer
+- 🌱 I’m currently learning Best Coding Practices, Solving Complex Programming Problems and working on Scalable Projects
 - 👯 I’m looking to collaborate on developing state of art software projects
 - 💬 Ask me about Problem Solving, System Designs, Software Development, Programming Languages and Frameworks.
 - 📫 How to reach me: email :m.laeeq.niazi@gmail.com:
